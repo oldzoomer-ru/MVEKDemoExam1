@@ -1,0 +1,17 @@
+.Main {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Main form {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Main form * {
+    margin-bottom: 10px;
+}

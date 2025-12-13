@@ -1,0 +1,17 @@
+.Registration {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Registration form {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Registration form * {
+    margin-bottom: 10px;
+}

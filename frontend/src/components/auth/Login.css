@@ -1,0 +1,17 @@
+.Login {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Login form {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.Login form * {
+    margin-bottom: 10px;
+}
